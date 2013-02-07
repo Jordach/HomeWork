@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //By Jordan SNelling
 #define STARTING_NUM 3
 
 
